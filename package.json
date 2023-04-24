@@ -1,0 +1,26 @@
+{
+  "name": "eslint-prettier-webpack-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eveieve/EsLint-Prettier-Webpack-Template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eveieve/EsLint-Prettier-Webpack-Template/issues"
+  },
+  "homepage": "https://github.com/Eveieve/EsLint-Prettier-Webpack-Template#readme",
+  "devDependencies": {
+    "eslint": "^8.39.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-import": "^2.27.5"
+  }
+}
